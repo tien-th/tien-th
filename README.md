@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tien-th
 - 👀 I’m interested in machine learning and software engineering
-- 🌱 I’m currently studying at hanoi university of science and technology 
 - 📫 gmail: tienhuu060102@gmail.com
 
 <!---
