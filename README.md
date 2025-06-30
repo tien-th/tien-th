@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tien-th
-- 👀 I’m interested in machine learning and software engineering
+- 👀 I’m interested in medical AI and Reinforcement Learning 
 - 📫 gmail: tienhuu060102@gmail.com
 
 <!---
